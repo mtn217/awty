@@ -26,7 +26,7 @@
         android:hint="Are we there yet?" />
 
     <TextView
-        android:text="Phone Number (9 digits):"
+        android:text="Phone Number (10 digits):"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/phone"
